@@ -1,8 +1,10 @@
 #include<stdio.h>
 
 int main (){
-    int height, base;
+    float height, base;
 
-    scanf("%d %d", &height, &base);
-    printf("%g", (base+height)/2);
+    scanf("%f %f", &height, &base);
+    printf("%g", (base * height)/2);
+
+    return 0;
 }
