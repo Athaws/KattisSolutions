@@ -92,6 +92,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Sort Two Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sorttwonumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sorttwonumbers) |
 | Spavanac | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/spavanac.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spavanac) |
 | Spelling Bee | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/spellingbee.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spellingbee) |
+| Stopwatch | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/stopwatch.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/stopwatch) |
 | Stuck In A Time Loop | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/stuckinatimeloop.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/) |
 | Tarifa | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/tarifa.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tarifa) |
 | Triangle Area | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/trianglearea.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/triarea) |
