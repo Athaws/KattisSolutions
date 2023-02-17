@@ -34,6 +34,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Carrots | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/carrots.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/carrots) |
 | Cetvrta | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/cetvrta.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cetvrta) |
 | Chanukah | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/chanukah.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/chanukah) |
+| Class Fieldtrip | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/classfieldtrip.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/classfieldtrip) |
 | Coffee Cup Combo | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/coffeecupcombo.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/coffeecupcombo) |
 | Cold-puter Science | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/coldputerscience.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cold) |
 | Count the Vowels | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/countthevowels.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/countthevowels) |
