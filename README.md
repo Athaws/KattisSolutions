@@ -18,6 +18,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Above Average | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/aboveaverage.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aboveaverage) |
 | Add Two Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/addtwonumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers) |
 | A Different Problem | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/adifferentproblem.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/different) |
+| Alien Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/aliennumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aliennumbers) |
 | Alphabet Spam | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/alphabetspam.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam) |
 | Apaxiaaaaaaaaaaaans! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/apaxiaaaaaans.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
 | A Real Challenge | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/arealchallenge.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/areal) |
@@ -48,6 +49,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Electrical Outlets | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/electricaloutlets.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/electricaloutlets) |
 | Encoded Message | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/encodedmessage.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/encodedmessage) |
 | Eye of Sauron | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/eyeofsauron.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/eyeofsauron) |
+| Fading Wind | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/fadingwind.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fadingwind) |
 | Faktor | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/faktor.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/faktor) |
 | Filip | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/filip.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/filip) |
 | Finding an A | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/findingana.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/findingana) |
