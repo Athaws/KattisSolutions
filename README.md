@@ -95,6 +95,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Soda Slurper | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sodaslurper.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sodaslurper) |
 | Sort Two Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sorttwonumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sorttwonumbers) |
 | Spavanac | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/spavanac.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spavanac) |
+| Speed Limit | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/speedlimit.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/speedlimit) |
 | Spelling Bee | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/spellingbee.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spellingbee) |
 | Stopwatch | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/stopwatch.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/stopwatch) |
 | Stuck In A Time Loop | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/stuckinatimeloop.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/) |
