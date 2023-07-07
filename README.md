@@ -17,6 +17,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | ABC | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/abc.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/abc) |
 | Above Average | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/aboveaverage.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aboveaverage) |
 | Add Two Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/addtwonumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers) |
+| Adding Trouble | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/addingtrouble.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addingtrouble) |
 | A Different Problem | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/adifferentproblem.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/different) |
 | Alien Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/aliennumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aliennumbers) |
 | Alphabet Spam | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/alphabetspam.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam) |
