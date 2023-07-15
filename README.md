@@ -73,6 +73,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Last Factorial Digit | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/lastfactorialdigit.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lastfactorialdigit) |
 | Magic Trick | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/magictrick.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/magictrick) |
 | Metronome | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/metronome.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/metronome) |
+| Modulo | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/modulo.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/modulo) |
 | Nasty Hacks | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/nastyhacks.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
 | No Duplicates | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/noduplicates.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nodup) |
 | N-sum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/nsum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nsum) |
