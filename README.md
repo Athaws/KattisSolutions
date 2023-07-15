@@ -103,12 +103,13 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Stopwatch | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/stopwatch.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/stopwatch) |
 | Stuck In A Time Loop | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/stuckinatimeloop.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/timeloop) |
 | Sum Squared Digits Function | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sumsquareddigits.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumsquareddigits) |
+| Take Two Stones | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/twostones.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones) |
 | Tarifa | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/tarifa.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tarifa) |
 | The Easiest Problem Is This One | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/easiest.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/easiest) |
 | The Last Problem | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/thelastproblem.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/thelastproblem) |
 | Triangle Area | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/trianglearea.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/triarea) |
 | Trik | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/trik.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trik) |
-| Take Two Stones | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/twostones.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones) |
+| Turn It Up! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/skruop.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skruop) |
 | Two-sum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/twosum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twosum) |
 | Undead or Alive | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/undeadoralive.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/undeadoralive) |
 | Which Is Greater | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/whichisgreater.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/whichisgreater) |
