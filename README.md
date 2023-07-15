@@ -108,4 +108,3 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Two-sum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/twosum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twosum) |
 | Undead or Alive | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/undeadoralive.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/undeadoralive) |
 | Which Is Greater | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/whichisgreater.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/whichisgreater) |
-
