@@ -73,6 +73,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Last Factorial Digit | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/lastfactorialdigit.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lastfactorialdigit) |
 | Magic Trick | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/magictrick.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/magictrick) |
 | Metronome | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/metronome.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/metronome) |
+| Modulo | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/modulo.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/modulo) |
 | Nasty Hacks | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/nastyhacks.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
 | No Duplicates | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/noduplicates.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nodup) |
 | N-sum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/nsum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nsum) |
@@ -89,6 +90,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | R2 | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/r2.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/r2) |
 | Rating Problems | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/ratingproblems.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ratingproblems) |
 | Reverse | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/reverse.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ofugsnuid) |
+| Reverse Binary | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/reversebinary.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/reversebinary) |
 | Seven Wonders | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sevenwonders.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sevenwonders) |
 | Shattered Cake | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/shatteredcake.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/shatteredcake) |
 | Sibice | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sibice.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sibice) |
@@ -102,10 +104,13 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Stopwatch | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/stopwatch.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/stopwatch) |
 | Stuck In A Time Loop | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/stuckinatimeloop.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/timeloop) |
 | Sum Squared Digits Function | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sumsquareddigits.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumsquareddigits) |
+| Take Two Stones | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/twostones.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones) |
 | Tarifa | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/tarifa.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tarifa) |
+| The Easiest Problem Is This One | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/easiest.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/easiest) |
+| The Last Problem | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/thelastproblem.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/thelastproblem) |
 | Triangle Area | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/trianglearea.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/triarea) |
 | Trik | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/trik.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trik) |
-| Take Two Stones | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/twostones.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones) |
+| Turn It Up! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/skruop.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skruop) |
 | Two-sum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/twosum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twosum) |
 | Undead or Alive | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/undeadoralive.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/undeadoralive) |
 | Which Is Greater | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/whichisgreater.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/whichisgreater) |
