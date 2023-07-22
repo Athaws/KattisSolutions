@@ -21,6 +21,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | A Different Problem | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/adifferentproblem.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/different) |
 | Alien Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/aliennumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aliennumbers) |
 | Alphabet Spam | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/alphabetspam.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam) |
+| Another Candies | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/anothercandies.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anothercandies) |
 | Apaxiaaaaaaaaaaaans! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/apaxiaaaaaans.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
 | A Real Challenge | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/arealchallenge.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/areal) |
 | Autori | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/autori.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
