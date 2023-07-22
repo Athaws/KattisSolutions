@@ -102,6 +102,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Spavanac | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/spavanac.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spavanac) |
 | Speed Limit | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/speedlimit.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/speedlimit) |
 | Spelling Bee | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/spellingbee.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spellingbee) |
+| Statistics | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/statistics.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/statistics) |
 | Stopwatch | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/stopwatch.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/stopwatch) |
 | Stuck In A Time Loop | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/stuckinatimeloop.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/timeloop) |
 | Sum Squared Digits Function | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sumsquareddigits.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumsquareddigits) |
