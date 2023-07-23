@@ -32,6 +32,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Betting | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/betting.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/betting) |
 | Bijele | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/bijele.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bijele) |
 | Birthday Memorization | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/birthdaymemorization.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fodelsedagsmemorisering) |
+| Broken Calculator | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/brokencalculator.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/brokencalculator) |
 | Building Pyramids | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/buildingpyramids.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pyramids) |
 | Canadians, eh? | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/canadianseh.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/canadianseh) |
 | Carrots | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/carrots.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/carrots) |
@@ -68,6 +69,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | I've Been Everywhere, Man | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/beeneverywhereman.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/everywhere) |
 | Jack-O'-Lantern Juxtaposition | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/jackolanternjuxtaposition.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/jackolanternjuxtaposition) |
 | Janitor Troubles | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/janitortroubles.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/janitortroubles) |
+| Judging Moose | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/judgingmoose.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/judgingmoose) |
 | Jumbo Javelin | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/jumbojavelin.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/jumbojavelin) |
 | Knight Packing | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/knightpacking.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/knightpacking) |
 | Knot Knowledge | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/knotknowledge.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/knotknowledge) |
@@ -88,6 +90,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Pot | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/pot.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pot) |
 | Qaly | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/qaly.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/qaly) |
 | Quadrant | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/quadrant.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quadrant) |
+| Quick Estimate | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/quickestimate.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quickestimate) |
 | R2 | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/r2.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/r2) |
 | Rating Problems | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/ratingproblems.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ratingproblems) |
 | Reverse | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/reverse.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ofugsnuid) |
