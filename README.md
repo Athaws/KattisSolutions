@@ -58,6 +58,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Finding an A | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/findingana.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/findingana) |
 | FizzBuzz | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/fizzbuzz.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fizzbuzz) |
 | FYI | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/fyi.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fyi) |
+| GCD | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/gcd.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/gcd) |
 | GCVWR | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/gcvwr.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/gcvwr) |
 | Grading | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/grading.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grading) |
 | Grass Seed Inc. | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/grasseedinc) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed) |
@@ -91,6 +92,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Qaly | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/qaly.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/qaly) |
 | Quadrant | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/quadrant.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quadrant) |
 | Quick Estimate | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/quickestimate.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quickestimate) |
+| Quite A Problem | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/quiteaproblem.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quiteaproblem) |
 | R2 | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/r2.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/r2) |
 | Rating Problems | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/ratingproblems.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ratingproblems) |
 | Reverse | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/reverse.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ofugsnuid) |
@@ -98,6 +100,8 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Seven Wonders | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sevenwonders.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sevenwonders) |
 | Shattered Cake | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/shatteredcake.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/shatteredcake) |
 | Sibice | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sibice.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sibice) |
+| Simon Says | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/simonsays.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simonsays) |
+| Simple Addition | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/simpleaddition.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simpleaddition) |
 | Simple Arithmetic | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/simplearithmetic.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simplearithmetic) |
 | SMIL | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/smil.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/smil) |
 | Soda Slurper | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sodaslurper.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sodaslurper) |
@@ -119,3 +123,4 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Two-sum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/twosum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twosum) |
 | Undead or Alive | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/undeadoralive.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/undeadoralive) |
 | Which Is Greater | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/whichisgreater.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/whichisgreater) |
+| Yin And Yang Stones | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/yinyangstones.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/yinyangstones) |
