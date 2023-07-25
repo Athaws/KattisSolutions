@@ -35,6 +35,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Birthday Memorization | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/birthdaymemorization.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fodelsedagsmemorisering) |
 | Broken Calculator | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/brokencalculator.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/brokencalculator) |
 | Building Pyramids | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/buildingpyramids.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pyramids) |
+| Buka | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/buka.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/buka) |
 | Bus | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/bus.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bus) |
 | Canadians, eh? | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/canadianseh.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/canadianseh) |
 | Carrots | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/carrots.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/carrots) |
@@ -128,4 +129,4 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Two-sum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/twosum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twosum) |
 | Undead or Alive | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/undeadoralive.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/undeadoralive) |
 | Which Is Greater | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/whichisgreater.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/whichisgreater) |
-| Yin And Yang Stones | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/yinyangstones.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/yinyangstones) |
+| Yin And Yang Stones | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/yinyangstones.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/yinyangstones) |
