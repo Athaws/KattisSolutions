@@ -69,7 +69,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Heart Rate | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/heartrate.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heartrate) |
 | Herman | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/herman.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/herman) |
 | Hissing Microphone | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/hissingmicrophone.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hissingmicrophone) |
-| International Dates | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/internationaldates.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/internationaldates) |
+| International Dates | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/internationaldates.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/internationaldates) |
 | Is It Halloween? | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/isithalloween.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/isithalloween) |
 | I've Been Everywhere, Man | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/beeneverywhereman.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/everywhere) |
 | Jack-O'-Lantern Juxtaposition | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/jackolanternjuxtaposition.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/jackolanternjuxtaposition) |
