@@ -93,7 +93,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Piece of Cake | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/pieceofcake.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pieceofcake) |
 | Planina | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/planina.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/planina) |
 | Pokechat | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/pokechat.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pokechat) |
-| Popular Vote | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/vote.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/vote) |
+| Popular Vote | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/vote.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/vote) |
 | Pot | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/pot.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pot) |
 | Powers of 2 (Easy) | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/powersof2easy.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/powersof2easy) |
 | Qaly | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/qaly.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/qaly) |
