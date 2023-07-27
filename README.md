@@ -111,6 +111,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Simple Addition | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/simpleaddition.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simpleaddition) |
 | Simple Arithmetic | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/simplearithmetic.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simplearithmetic) |
 | SMIL | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/smil.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/smil) |
+| Snapper Chain (Easy) | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/snappereasy.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/snappereasy) |
 | Soda Slurper | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sodaslurper.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sodaslurper) |
 | Sort Two Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sorttwonumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sorttwonumbers) |
 | Spavanac | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/spavanac.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spavanac) |
