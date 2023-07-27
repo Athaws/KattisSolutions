@@ -94,6 +94,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Planina | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/planina.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/planina) |
 | Pokechat | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/pokechat.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pokechat) |
 | Pot | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/pot.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pot) |
+| Powers of 2 (Easy) | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/powersof2easy.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/powersof2easy) |
 | Qaly | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/qaly.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/qaly) |
 | Quadrant | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/quadrant.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quadrant) |
 | Quick Estimate | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/quickestimate.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quickestimate) |
