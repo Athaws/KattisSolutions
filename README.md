@@ -28,7 +28,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Autori | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/autori.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
 | Average Character | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/averagecharacter.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/averagecharacter) |
 | Avion | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/avion.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/avion) |
-| Basic Programming 1 | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/basicprogramming1.c), [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/basicprogramming1.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/basicprogramming1) |
+| Basic Programming 1 | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/basicprogramming1.c) , [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/basicprogramming1.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/basicprogramming1) |
 | Batter Up | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/batterup.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/batterup) |
 | Bela | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/bela.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bela) |
 | Betting | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/betting.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/betting) |
