@@ -48,6 +48,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Count the Vowels | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/countthevowels.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/countthevowels) |
 | CPR Number | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/cprnummer.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cprnummer) |
 | Cryptographer's Conundrum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/cryptographersconundrum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cold) |
+| Curve Speed | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/curvespeed.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/curvespeed) |
 | Datum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/datum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/datum) |
 | Detailed Differences | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/detaileddifferences.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/detaileddifferences) |
 | Dice Cup | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/dicecup.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/dicecup) |
@@ -81,6 +82,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Knight Packing | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/knightpacking.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/knightpacking) |
 | Knot Knowledge | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/knotknowledge.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/knotknowledge) |
 | Last Factorial Digit | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/lastfactorialdigit.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lastfactorialdigit) |
+| Longest Prime Sum| [C](https://github.com/Athaws/KattisSolutions/blob/main/src/longestprimesum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/longestprimesum) |
 | Magic Trick | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/magictrick.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/magictrick) |
 | Metronome | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/metronome.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/metronome) |
 | Modulo | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/modulo.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/modulo) |
