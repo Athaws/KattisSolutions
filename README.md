@@ -68,6 +68,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Grading | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/grading.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grading) |
 | Grass Seed Inc. | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/grasseedinc) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed) |
 | Greetings! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/greetings2.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/greetings2) |
+| Harshad Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/harshadnumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/harshadnumbers) |
 | Heart Rate | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/heartrate.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heartrate) |
 | Herman | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/herman.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/herman) |
 | Hissing Microphone | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/hissingmicrophone.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hissingmicrophone) |
