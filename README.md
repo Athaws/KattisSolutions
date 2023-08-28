@@ -81,6 +81,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Jumbo Javelin | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/jumbojavelin.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/jumbojavelin) |
 | Knight Packing | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/knightpacking.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/knightpacking) |
 | Knot Knowledge | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/knotknowledge.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/knotknowledge) |
+| Laptop Sticker | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/laptopsticker.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/laptopsticker) |
 | Last Factorial Digit | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/lastfactorialdigit.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lastfactorialdigit) |
 | Longest Prime Sum| [C](https://github.com/Athaws/KattisSolutions/blob/main/src/longestprimesum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/longestprimesum) |
 | Magic Trick | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/magictrick.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/magictrick) |
