@@ -93,6 +93,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | N-sum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/nsum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nsum) |
 | Number Fun | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/numberfun.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/numberfun) |
 | Odd Echo | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/oddecho.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddecho) |
+| Odd Man Out | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/oddmanout.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddmanout) |
 | Oddities | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/oddities.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities) |
 | Pet | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/pet.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet) |
 | Piece of Cake | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/pieceofcake.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pieceofcake) |
