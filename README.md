@@ -15,6 +15,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | 99 Problems | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/99problems.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/99problems) |
 | Aaah! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/aaah.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
 | ABC | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/abc.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/abc) |
+| ACM Scoring Contest | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/acmscoringcontest.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/acmscoringcontest) |
 | Above Average | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/aboveaverage.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aboveaverage) |
 | Add Two Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/addtwonumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers) |
 | Adding Trouble | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/addingtrouble.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addingtrouble) |
@@ -22,8 +23,10 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Alien Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/aliennumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aliennumbers) |
 | Alphabet Spam | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/alphabetspam.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam) |
 | Another Candies | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/anothercandies.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anothercandies) |
+| A New Alphabet | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/anewalphabet.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anewalphabet) |
 | Apaxiaaaaaaaaaaaans! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/apaxiaaaaaans.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
 | A Real Challenge | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/arrangement.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/arrangement) |
+| Arithmetic Functions | [C++](https://github.com/Athaws/KattisSolutions/blob/main/src/arithmeticfunctions.cpp) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/arithmeticfunctions) |
 | Arrangement | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/averagecharacter.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/averagecharacter) |
 | Autori | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/autori.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
 | Average Character | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/averagecharacter.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/averagecharacter) |
