@@ -142,6 +142,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Trik | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/trik.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trik) |
 | Turn It Up! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/skruop.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skruop) |
 | Two-sum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/twosum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twosum) |
+| Úllen dúllen doff | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/ullendullendoff.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ullendullendoff) |
 | Undead or Alive | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/undeadoralive.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/undeadoralive) |
 | Which Is Greater | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/whichisgreater.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/whichisgreater) |
 | Yin And Yang Stones | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/yinyangstones.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/yinyangstones) |
