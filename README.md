@@ -22,6 +22,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | A Different Problem | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/adifferentproblem.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/different) |
 | Alien Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/aliennumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aliennumbers) |
 | Alphabet Spam | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/alphabetspam.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam) |
+| Amerískur vinnustaður | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/ameriskur.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ameriskur) |
 | Another Candies | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/anothercandies.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anothercandies) |
 | A New Alphabet | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/anewalphabet.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anewalphabet) |
 | Apaxiaaaaaaaaaaaans! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/apaxiaaaaaans.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
@@ -56,6 +57,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Detailed Differences | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/detaileddifferences.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/detaileddifferences) |
 | Dice Cup | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/dicecup.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/dicecup) |
 | Digit Swap | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/digitswap.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/digitswap) |
+| Double Password | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/doublepassword.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/doublepassword) |
 | Echo Echo Echo | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/echoechoecho.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/echoechoecho) |
 | Electrical Outlets | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/electricaloutlets.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/electricaloutlets) |
 | Encoded Message | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/encodedmessage.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/encodedmessage) |
@@ -98,6 +100,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Odd Echo | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/oddecho.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddecho) |
 | Odd Man Out | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/oddmanout.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddmanout) |
 | Oddities | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/oddities.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities) |
+| Óvissa | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/ovissa.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ovissa) |
 | Pet | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/pet.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet) |
 | Piece of Cake | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/pieceofcake.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pieceofcake) |
 | Planina | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/planina.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/planina) |
@@ -144,5 +147,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Two-sum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/twosum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twosum) |
 | Úllen dúllen doff | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/ullendullendoff.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ullendullendoff) |
 | Undead or Alive | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/undeadoralive.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/undeadoralive) |
+| VELKOMIN! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/velkomin.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/velkomin) |
+| Viðsnúningur | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/vidsnuningur.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/vidsnuningur) |
 | Which Is Greater | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/whichisgreater.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/whichisgreater) |
 | Yin And Yang Stones | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/yinyangstones.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/yinyangstones) |
