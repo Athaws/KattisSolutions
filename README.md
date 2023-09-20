@@ -57,6 +57,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Detailed Differences | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/detaileddifferences.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/detaileddifferences) |
 | Dice Cup | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/dicecup.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/dicecup) |
 | Digit Swap | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/digitswap.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/digitswap) |
+| Disc District | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/discdistrict.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/discdistrict) |
 | Double Password | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/doublepassword.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/doublepassword) |
 | Echo Echo Echo | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/echoechoecho.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/echoechoecho) |
 | Electrical Outlets | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/electricaloutlets.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/electricaloutlets) |
