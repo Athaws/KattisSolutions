@@ -85,6 +85,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Janitor Troubles | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/janitortroubles.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/janitortroubles) |
 | Job Expenses | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/jobexpenses.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/jobexpenses) |
 | Judging Moose | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/judgingmoose.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/judgingmoose) |
+| Jumbled Compass | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/jumbledcompass.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/compass) |
 | Jumbo Javelin | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/jumbojavelin.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/jumbojavelin) |
 | Knight Packing | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/knightpacking.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/knightpacking) |
 | Knot Knowledge | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/knotknowledge.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/knotknowledge) |
