@@ -33,6 +33,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Average Character | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/averagecharacter.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/averagecharacter) |
 | Avion | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/avion.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/avion) |
 | Basic Programming 1 | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/basicprogramming1.c) , [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/basicprogramming1.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/basicprogramming1) |
+| Basketball One on One | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/basketballoneonone.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/basketballoneonone) |
 | Batter Up | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/batterup.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/batterup) |
 | Bela | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/bela.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bela) |
 | Betting | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/betting.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/betting) |
@@ -78,6 +79,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Heart Rate | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/heartrate.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heartrate) |
 | Herman | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/herman.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/herman) |
 | Hissing Microphone | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/hissingmicrophone.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hissingmicrophone) |
+| Hradgreinig | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/hradgreinig.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hradgreinig) |
 | International Dates | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/internationaldates.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/internationaldates) |
 | Is It Halloween? | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/isithalloween.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/isithalloween) |
 | I've Been Everywhere, Man | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/beeneverywhereman.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/everywhere) |
@@ -91,6 +93,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Knot Knowledge | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/knotknowledge.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/knotknowledge) |
 | Laptop Sticker | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/laptopsticker.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/laptopsticker) |
 | Last Factorial Digit | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/lastfactorialdigit.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lastfactorialdigit) |
+| Leggja Saman | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/leggjasaman.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/leggjasaman) |
 | Longest Prime Sum| [C](https://github.com/Athaws/KattisSolutions/blob/main/src/longestprimesum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/longestprimesum) |
 | Magic Trick | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/magictrick.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/magictrick) |
 | Metronome | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/metronome.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/metronome) |
