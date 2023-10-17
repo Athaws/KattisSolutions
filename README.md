@@ -66,6 +66,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Eye of Sauron | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/eyeofsauron.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/eyeofsauron) |
 | Fading Wind | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/fadingwind.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fadingwind) |
 | Faktor | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/faktor.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/faktor) |
+| Framtíðar FIFA | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/fifa.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fifa) |
 | Filip | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/filip.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/filip) |
 | Finding an A | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/findingana.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/findingana) |
 | FizzBuzz | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/fizzbuzz.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fizzbuzz) |
@@ -136,6 +137,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Speeding | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/speeding.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/speeding) |
 | Speed Limit | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/speedlimit.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/speedlimit) |
 | Spelling Bee | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/spellingbee.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spellingbee) |
+| Spritt | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/spritt.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spritt) |
 | Statistics | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/statistics.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/statistics) |
 | Sticky Keys | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/stickykeys.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/stickykeys) |
 | Stopwatch | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/stopwatch.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/stopwatch) |
