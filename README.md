@@ -15,7 +15,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | 99 Problems | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/99problems.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/99problems) |
 | Aaah! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/aaah.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
 | ABC | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/abc.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/abc) |
-| ACM Scoring Contest | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/acmscoringcontest.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/acmscoringcontest) |
+| ACM Scoring Contest | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/acmscoringcontest.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/acm) |
 | Above Average | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/aboveaverage.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aboveaverage) |
 | Add Two Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/addtwonumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers) |
 | Adding Trouble | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/addingtrouble.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addingtrouble) |
