@@ -65,6 +65,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Ekki dauði opna inni | [Python](https://github.com/Athaws/KattisSolutions/blob/main/src/ekkidaudi.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ekkidaudi) |
 | Electrical Outlets | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/electricaloutlets.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/electricaloutlets) |
 | Encoded Message | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/encodedmessage.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/encodedmessage) |
+| Endurvinnsla | [Python](https://github.com/Athaws/KattisSolutions/blob/main/src/endurvinnsla.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/endurvinnsla) |
 | Eye of Sauron | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/eyeofsauron.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/eyeofsauron) |
 | Fading Wind | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/fadingwind.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fadingwind) |
 | Faktor | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/faktor.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/faktor) |
@@ -134,6 +135,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Simon Says | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/simonsays.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simonsays) |
 | Simple Addition | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/simpleaddition.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simpleaddition) |
 | Simple Arithmetic | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/simplearithmetic.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simplearithmetic) |
+| Sith | [Python](https://github.com/Athaws/KattisSolutions/blob/main/src/sith.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sith) |
 | SMIL | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/smil.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/smil) |
 | Snapper Chain (Easy & Hard) | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/snapperchain.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/snapperchain) |
 | Soda Slurper | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sodaslurper.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sodaslurper) |
@@ -161,6 +163,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Úllen dúllen doff | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/ullendullendoff.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ullendullendoff) |
 | Undead or Alive | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/undeadoralive.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/undeadoralive) |
 | Veður - Lokaðar heiðar | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/vedurheidar.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/vedurheidar) |
+| Veður - Vindhraði | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/vedurvindhradi.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/vedurvindhradi) |
 | Vefþjónatjón | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/vefthjonatjon.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/vefthjonatjon) |
 | VELKOMIN! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/velkomin.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/velkomin) |
 | Viðsnúningur | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/vidsnuningur.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/vidsnuningur) |
