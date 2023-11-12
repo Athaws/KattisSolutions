@@ -70,7 +70,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Fading Wind | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/fadingwind.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fadingwind) |
 | Faktor | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/faktor.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/faktor) |
 | Framtíðar FIFA | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/fifa.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fifa) |
-| Fifty Shades of Pink | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/fiftyshades.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fiftyshades) |
+| Fifty Shades of Pink | [Python](https://github.com/Athaws/KattisSolutions/blob/main/src/fiftyshades.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fiftyshades) |
 | Filip | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/filip.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/filip) |
 | Finding an A | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/findingana.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/findingana) |
 | FizzBuzz | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/fizzbuzz.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fizzbuzz) |
