@@ -3,7 +3,7 @@
 
 Here, my solutions for various different problems from [Kattis](https://open.kattis.com/) can be found.
 
-Most (if not all) are written in C or Java.
+Most (if not all) are written in C, Java or Python, as can be seen in the table below.
 
 ## Problems & Solutions
 
