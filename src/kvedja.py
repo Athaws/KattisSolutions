@@ -1,0 +1,1 @@
+print('Kvedja,\n'+input())
