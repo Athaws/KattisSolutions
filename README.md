@@ -24,6 +24,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Alien Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/aliennumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aliennumbers) |
 | Alphabet Spam | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/alphabetspam.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam) |
 | Amerískur vinnustaður | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/ameriskur.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ameriskur) |
+| Another Brick in the Wall | [Python](https://github.com/Athaws/KattisSolutions/blob/main/src/anotherbrick.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anotherbrick) |
 | Another Candies | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/anothercandies.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anothercandies) |
 | A New Alphabet | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/anewalphabet.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anewalphabet) |
 | Apaxiaaaaaaaaaaaans! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/apaxiaaaaaans.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
