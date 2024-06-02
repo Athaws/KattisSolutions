@@ -132,6 +132,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Millifærsla | [Python](https://github.com/Athaws/KattisSolutions/blob/main/src/millifaersla.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/millifaersla) |
 | Modulo | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/modulo.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/modulo) |
 | Nasty Hacks | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/nastyhacks.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
+| Ninety-nine | [Python](https://github.com/Athaws/KattisSolutions/blob/main/src/ninetynine.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ninetynine) |
 | No Duplicates | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/noduplicates.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nodup) |
 | N-sum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/nsum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nsum) |
 | Number Fun | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/numberfun.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/numberfun) |
