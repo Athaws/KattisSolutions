@@ -6,7 +6,7 @@ Most (if not all) are written in C, Java or Python, as can be seen in the table 
 
 ## Problems & Solutions
 
-Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with links.
+Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with links (Automatically generated, may contain errors).
 
 | Problem | Solved in | :link: |
 | - | - | - |
