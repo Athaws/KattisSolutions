@@ -1,3 +1,5 @@
+<p align="center">
+
 # My Kattis Solutions
 
 Here, my solutions for various different problems from [Kattis](https://open.kattis.com/) can be found.
@@ -218,3 +220,4 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Which is Greater? | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/whichisgreater/whichisgreater.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/whichisgreater) |
 | Yin and Yang Stones | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/yinyangstones/yinyangstones.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/yinyangstones) |
 | Zyxab | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/zyxab/zyxab.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zyxab) |
+</p>
