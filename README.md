@@ -1,5 +1,3 @@
-<p align="center">
-
 # My Kattis Solutions
 
 Here, my solutions for various different problems from [Kattis](https://open.kattis.com/) can be found.
@@ -9,9 +7,9 @@ Most (if not all) are written in C, Java or Python, as can be seen in the table 
 ## Problems & Solutions
 
 Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with links (Automatically generated, may contain errors).
-
+  
 | Problem | Solved in | :link: |
-| - | - | - |
+| :---: | :---: | :---: |
 | 3D Printed Statues | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/3dprinter/3dprinter.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/3dprinter) |
 | 99 Problems | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/99problems/99problems.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/99problems) |
 | Aaah! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/aaah/aaah.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
@@ -220,4 +218,3 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Which is Greater? | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/whichisgreater/whichisgreater.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/whichisgreater) |
 | Yin and Yang Stones | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/yinyangstones/yinyangstones.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/yinyangstones) |
 | Zyxab | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/zyxab/zyxab.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zyxab) |
-</p>
