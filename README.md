@@ -7,7 +7,7 @@ Most (if not all) are written in C, Java or Python, as can be seen in the table 
 ## Problems & Solutions
 
 Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with links (Automatically generated, may contain errors).
-  
+
 | Problem | Solved in | :link: |
 | :---: | :---: | :---: |
 | 3D Printed Statues | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/3dprinter/3dprinter.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/3dprinter) |
@@ -59,6 +59,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Coffee Cup Combo | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/coffeecupcombo/coffeecupcombo.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/coffeecupcombo) |
 | Cold-puter Science | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/cold/coldputerscience.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cold) |
 | Jumbled Compass | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/compass/compass.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/compass) |
+| Conga Line | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/congaline/congaline.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/congaline) |
 | Cryptographer's Conundrum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/conundrum/conundrum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/conundrum) |
 | Cosmic Path Optimization | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/cosmicpathoptimization/cosmicpathoptimization.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cosmicpathoptimization) |
 | Count the Vowels | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/countthevowels/countthevowels.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/countthevowels) |
