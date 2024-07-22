@@ -189,6 +189,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Shattered Cake | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/shatteredcake/shatteredcake.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/shatteredcake) |
 | Sibice | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sibice/sibice.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sibice) |
 | Digit Product | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/sifferprodukt/sifferprodukt.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sifferprodukt) |
+| Simon Says | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/simon/simon.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simon) |
 | Simon Says | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/simonsays/simonsays.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simonsays) |
 | Simple Addition | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/simpleaddition/simpleaddition.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simpleaddition) |
 | Simple Arithmetic | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/simplearithmetic/simplearithmetic.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simplearithmetic) |
