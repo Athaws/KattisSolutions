@@ -68,10 +68,12 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Jumbled Compass | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/compass/compass.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/compass) |
 | Conga Line | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/congaline/congaline.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/congaline) |
 | Cryptographer's Conundrum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/conundrum/conundrum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/conundrum) |
+| Converting Romans | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/convertingromans/convertingromans.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/convertingromans) |
 | Cosmic Path Optimization | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/cosmicpathoptimization/cosmicpathoptimization.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cosmicpathoptimization) |
 | Count the Vowels | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/countthevowels/countthevowels.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/countthevowels) |
 | CPR Number | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/cprnummer/cprnummer.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cprnummer) |
 | Curve Speed | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/curvespeed/curvespeed.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/curvespeed) |
+| Dagatal | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/dagatal/dagatal.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/dagatal) |
 | Datum | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/datum/datum.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/datum) |
 | Death Knight Hero | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/deathknight/deathknight.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/deathknight) |
 | Detailed Differences | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/detaileddifferences/detaileddifferences.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/detaileddifferences) |
@@ -93,6 +95,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Eye of Sauron | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/eyeofsauron/eyeofsauron.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/eyeofsauron) |
 | Fading Wind | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/fadingwind/fadingwind.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fadingwind) |
 | Faktor | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/faktor/faktor.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/faktor) |
+| Falling Snow | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/fallingsnow2/fallingsnow2.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fallingsnow2) |
 | Framtíðar FIFA | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/fifa/fifa.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fifa) |
 | Fifty Shades of Pink | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/fiftyshades/fiftyshades.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fiftyshades) |
 | Filip | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/filip/filip.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/filip) |
@@ -110,10 +113,11 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Grass Seed Inc. | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/grassseed/grassseed.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed) |
 | Greetings! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/greetings2/greetings2.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/greetings2) |
 | Guess the Number | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/guess/guess.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/guess) |
+| Hakkari | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/hakkari/hakkari.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hakkari) |
 | Hanging Out on the Terrace | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/hangingout/hangingout.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hangingout) |
 | Harshad Numbers | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/harshadnumbers/harshadnumbers.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/harshadnumbers) |
 | Heart Rate | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/heartrate/heartrate.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heartrate) |
-| Homework | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/heimavinna/heimavinna.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heimavinna) |
+| Heimavinna | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/heimavinna/heimavinna.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heimavinna) |
 | Help a PhD candidate out! | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/helpaphd/helpaphd.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/helpaphd) |
 | Herman | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/herman/herman.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/herman) |
 | Hipp Hipp | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/hipphipp/hipphipp.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hipphipp) |
@@ -153,6 +157,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Millifærsla | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/millifaersla/millifaersla.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/millifaersla) |
 | Modulo | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/modulo/modulo.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/modulo) |
 | Multiplication | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/multiplications/multiplications.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/multiplications) |
+| Mumble Rap | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/mumblerap/mumblerap.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mumblerap) |
 | Nasty Hacks | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/nastyhacks/nastyhacks.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
 | Ninety-nine | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/ninetynine/ninetynine.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ninetynine) |
 | No Duplicates | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/nodup/noduplicates.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nodup) |
@@ -161,7 +166,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Odd Echo | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/oddecho/oddecho.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddecho) |
 | Oddities | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/oddities/oddities.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities) |
 | Odd Man Out | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/oddmanout/oddmanout.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddmanout) |
-| Reverse | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/ofugsnuid/ofugsnuid.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ofugsnuid) |
+| Öfugsnúið | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/ofugsnuid/ofugsnuid.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ofugsnuid) |
 | One Chicken Per Person! | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/onechicken/onechicken.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/onechicken) |
 | Östgötska | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/ostgotska/ostgotska.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ostgotska) |
 | Óvissa | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/ovissa/ovissa.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ovissa) |
@@ -187,6 +192,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Seven Wonders | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sevenwonders/sevenwonders.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sevenwonders) |
 | Shandy | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/shandy/shandy.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/shandy) |
 | Shattered Cake | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/shatteredcake/shatteredcake.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/shatteredcake) |
+| A Shortcut to What? | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/shortcuttowhat/shortcuttowhat.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/shortcuttowhat) |
 | Sibice | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/sibice/sibice.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sibice) |
 | Digit Product | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/sifferprodukt/sifferprodukt.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sifferprodukt) |
 | Simon Says | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/simon/simon.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simon) |
@@ -194,6 +200,7 @@ Solutions to various [Kattis Problems](https://open.kattis.com/problems/), with 
 | Simple Addition | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/simpleaddition/simpleaddition.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simpleaddition) |
 | Simple Arithmetic | [Java](https://github.com/Athaws/KattisSolutions/blob/main/src/simplearithmetic/simplearithmetic.java) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simplearithmetic) |
 | Sith | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/sith/sith.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sith) |
+| Skák | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/skak/skak.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skak) |
 | Skammstöfun | [Python 3](https://github.com/Athaws/KattisSolutions/blob/main/src/skammstofun/skammstofun.py) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skammstofun) |
 | Turn It Up! | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/skruop/skruop.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skruop) |
 | SMIL | [C](https://github.com/Athaws/KattisSolutions/blob/main/src/smil/smil.c) | [![:kattis:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/smil) |
