@@ -1,0 +1,1 @@
+print("1\n2"if 2 in range(int(input()), int(input())+1) else ":(")
